@@ -17,17 +17,17 @@ Pygame requires Python; if you don't already have it, you can download it from h
 
 To install PyGame, you can download it from https://www.pygame.org/wiki/GettingStarted.
 
-It should look like this in the command prompt (CMD):
+It should look like this in the command prompt (CMD) after installation:
 
 ![alt text](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/PyGameInstall.PNG)
  
 
  
 ## For Desktop Verison 
-Run the Crossy_RPG_Desktop_Ver.py
+Run `Python IDLE` and open the Crossy_RPG_Desktop_Ver.py file and hit `F5` key
 
 
 ## For Laptop Verison 
-Run the Crossy_RPG_Laptop.py
+Run `Python IDLE` and open the Crossy_RPG_Laptop.py file and hit `F5` key
 
 
