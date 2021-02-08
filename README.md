@@ -21,6 +21,8 @@ It should look like this in the command prompt (CMD) after installation:
 
 ![alt text](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/PyGameInstall.PNG)
  
+ 
+ **After installation, download and unzip the zip file.**
 
  
 ## For Desktop Verison 
