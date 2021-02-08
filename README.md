@@ -16,6 +16,9 @@ Pygame is a set of Python modules designed for writing video games. Pygame adds 
 Pygame requires Python; if you don't already have it, you can download it from https://www.python.org/downloads/.
 
 To install PyGame, you can download it from https://www.pygame.org/wiki/GettingStarted.
+
+It should look like this in the command prompt (CMD):
+![alt text](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/PyGameInstall.PNG)
  
 
  
