@@ -1,9 +1,9 @@
 # CrossyRoads_PyGame
 Using Python3 and PyGame to create a 2d game that runs on Python IDLE.
 
-Player uses the arrow keys on the keyboard to move the character, the goal of the game is to reach the treasue chest without touching the monsters. As the player completes each level, the levels get more difficult. The monster's speed gets faster and more monsters will spawn. \
+Player uses the arrow keys on the keyboard to move the character, the goal of the game is to reach the treasue chest without touching the monsters. As the player completes each level, the levels get more difficult. The monster's speed gets faster and more monsters will spawn.
 
-![alt text](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/Crossy_Gameplay.PNG) \
+![alt text](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/Crossy_Gameplay.PNG)
 
 ## What is PyGame?
 
@@ -17,7 +17,8 @@ Pygame requires Python; if you don't already have it, you can download it from h
 
 To install PyGame, you can download it from https://www.pygame.org/wiki/GettingStarted.
 
-It should look like this in the command prompt (CMD): \
+It should look like this in the command prompt (CMD):
+
 ![alt text](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/PyGameInstall.PNG)
  
 
