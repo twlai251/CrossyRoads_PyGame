@@ -1,7 +1,10 @@
 # Crossy Roads
+
+<p align="justify">
 Using Python3 and PyGame to create a 2d game that runs on Python IDLE.
 
 Player uses the arrow keys on the keyboard to move the character, the goal of the game is to reach the treasure chest without touching the monsters. As the player completes each level, the levels get more difficult. The monster's speed gets faster and more monsters will spawn.
+</p>
 
 ![Gameplay Picture](https://github.com/twlai251/CrossyRoads_PyGame/blob/master/Crossy_Gameplay.PNG)
 
